@@ -1,0 +1,14 @@
+{
+    "name": "hongyukeji/yii-widgets",
+    "description": "This is HongYuKeJi Yii widgets released",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shadow",
+            "email": "admin@hongyuvip.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
