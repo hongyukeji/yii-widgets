@@ -2,7 +2,6 @@
     "name": "hongyukeji/yii-widgets",
     "description": "HongYu technology Yii all widgets.",
     "keywords": ["hongyu","hongyukeji"],
-    "type": "composer-plugin",
     "license": "MIT",
     "authors": [
         {
